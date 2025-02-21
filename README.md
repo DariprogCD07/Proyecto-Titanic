@@ -122,5 +122,5 @@ La elección depende de los objetivos específicos:
 
 ## **7. Créditos**  
 - Dataset: [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic).  
-- Autor: Eliana Méndez.  
+- Autor: Darío Cortés.  
 - Mentor: Agradecimientos especiales a Zurisadai Velazquez Manzanero, por la oportunidad de hacer parte de ésta iniciativa en la que nos compartió conocimiento valioso, por toda su entrega desinteresada para seguir aportando a nuestro crecimiento.
